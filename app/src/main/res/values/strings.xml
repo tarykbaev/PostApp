@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PostApp</string>
+
+    <string name="user_id">User ID:</string>
+    <string name="post_id">ID:</string>
+    <string name="title">Title:</string>
+    <string name="body">Body:</string>
+    <string name="comment">Comments</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="dialog_comment">Comment</string>
+    <string name="cancel">CANCEL</string>
+    <string name="apply">ADD</string>
+
+</resources>
